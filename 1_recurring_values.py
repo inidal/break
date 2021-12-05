@@ -40,7 +40,7 @@ class ReturnRecurrent:
 
         # Filter if more than one recurring value
         if higher_val > 1:
-            print(f"The first most repeated number is {higher_num} with {higher_val} recurrence.")
+            print(f"The most repeated number is {higher_num} with {higher_val} recurrence.")
         else:
             print("No recurring number!")
 
