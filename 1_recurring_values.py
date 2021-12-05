@@ -63,10 +63,10 @@ for i in arrays:
 # ===========================
 
 # [2, 5, 1, 2, 3, 5, 1, 2, 4]
-# The first most repeated number is 2 with 3 recurrence.
+# The most repeated number is 2 with 3 recurrence.
 #
 # [3, 1, 1, 2, 1, 5, 2, 1, 4]
-# The first most repeated number is 1 with 4 recurrence.
+# The most repeated number is 1 with 4 recurrence.
 #
 # [2, 3, 4, 5]
 # No recurring number!
