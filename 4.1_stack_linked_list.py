@@ -36,9 +36,9 @@ class Stack:
 # Instantiating the Stack class
 s = Stack()
 
-# s.push('google')
-# s.push('twitter')
-# s.push('stackoverflow')
+s.push('google')
+s.push('twitter')
+s.push('stackoverflow')
 print(s.peek())
 s.pop()
 print(s.peek())
