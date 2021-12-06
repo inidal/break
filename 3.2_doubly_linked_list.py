@@ -1,5 +1,3 @@
-# 10 --> 5 --> 16
-
 class Node:
     def __init__(self, value):
         self.prev = None
